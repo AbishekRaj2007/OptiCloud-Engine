@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'api',
     'cost_analysis',
+    'optimization',
+    'decision_engine',
 ]
 
 
